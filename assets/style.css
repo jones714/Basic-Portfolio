@@ -1,0 +1,262 @@
+
+html{
+	width: auto;
+	position: relative;
+	min-height: 100%;
+
+}
+body {
+	margin: 0 0 75px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+	background-image: url(https://www.walldevil.com/wallpapers/a45/1439-crack-fabric-texture-wall.jpg); 
+
+			}
+	
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    overflow: hidden;
+    background-color: white;
+    margin-left: -10%;
+    
+    width: 98%;
+
+}
+
+nav li {
+    float: right;
+    border-left:1px solid #777;
+}
+
+nav li a {
+	color: #777777;
+    display: block;
+    text-align: center;
+    padding: 5px 10px;
+    text-decoration: none;
+    margin-right: 50%;
+
+}
+
+
+li a:hover {
+    background-color: #111;
+}
+
+
+
+main{
+	
+	
+	background-image: url(https://www.walldevil.com/wallpapers/a45/1439-crack-fabric-texture-wall.jpg); 
+	width: 100%;
+	
+	margin-bottom: 0%;
+	
+	
+}
+
+header{
+
+	width: 100%;
+	line-height: 1.8em;
+
+
+}
+
+h1, h2{
+	font-family: 'Georgia', Times, "Times New Roman", serif;
+}
+
+nav,{margin-left: -50%;
+		margin-right: 50%;
+	
+
+}
+header h1 {
+	overflow: hidden;
+	padding: .5em;
+	display: block;
+	background-color: teal;
+	text-align: center;
+	margin: .1%;
+	width: 15%;
+	height: 4.5%;
+	z-index: 9;
+	position: absolute;
+	color: white;
+margin-left: 10%;
+}
+
+h1{
+	padding:0px 10px 20px;
+
+	display: block;
+	color: teal;
+	border-bottom: 1px solid #cccccc;
+}
+
+content, section{ 
+
+				padding: .5em 2em;
+				float:left;
+               display: block;
+                background-color: #ffffff;
+                border: 4px solid #dddddd;
+                margin: 2%;
+				
+                margin-bottom: 15%;
+            }
+img{ float: left;
+	margin-right: 5%;
+ }
+
+p{
+margin-left: 10%; }
+
+content { 
+			width: 650px;
+	height: auto;
+	overflow:visible;
+	margin-top: 37px;
+	float: left;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+
+margin-left: 10%;
+		 }
+
+
+
+section ul,{
+margin-right: 5%;
+
+
+	
+}
+
+section{
+	text-align: center;     
+	width: 18%;
+height: auto;
+	
+}
+
+h2{ 
+
+	padding : 15px;
+	color: teal;
+display: block;
+border-bottom: 1px solid #cccccc; }
+
+section li{
+display: inline;	
+	float:left;
+	margin-left: 5%;
+
+}
+
+
+footer{
+	position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+	border-top: 10px solid #4aaaa5;
+	font-size: 15px;
+	text-align: center;
+	background-color: #666666;
+	color: white;
+	padding: 5px;
+}
+
+footer p{ 
+ margin-left: -2%; }
+
+ form{ margin-left: -10%;
+
+  }
+
+ input[type=text] {
+    width: 100%;
+    padding: 12px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+
+}
+
+input[name=Message] {
+    height: 150px;
+}
+
+input[type=submit]{
+		overflow: hidden;
+	padding: .5em;
+	display: block;
+	background-color: teal;
+	text-align: center;
+	margin: .1%;
+	width: 20%;
+	height: 4.5%;
+	font-size: 20px;
+	color: white;
+margin-left: 10%;
+
+
+}
+
+
+
+.portfolio-icon-left {
+	margin-right: 15px;
+	margin-bottom: 40px;
+	float: left;
+}
+
+.portfolio-icon-right {
+	padding-bottom: 40px;
+	float: right;
+}
+
+.portfolio-image {
+	position: relative;
+}
+
+.portfolio-image h4 {
+	position: absolute;
+	height: 20px;
+	width: 280px;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: teal;
+	color: white;
+}
+
+
+
+#hangman {
+	top: 100px;
+}
+
+#rpg {
+	top: 100px;
+	left: 338px;
+}
+
+#trivia {
+	top: 325px;
+}
+
+#rutgers {
+	top: 325px;
+	left: 338px;
+}
+
+#rps {
+	top: 540px;
+}
